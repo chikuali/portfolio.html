@@ -1,0 +1,31 @@
+body{
+background-color: pink;
+    }
+
+h1.one{
+    color: blue;
+}
+h1#two {
+    color: aqua;
+}
+p.three{
+    color: black;
+}
+h1.hover{
+    color: blueviolet;
+}
+#two:hover{
+    color: gold;
+}
+li:first-child{
+    color: blue;
+}
+li:last-child{
+    color: purple;
+}
+li:only-child{
+    color: red;
+}
+#Click-link :unvisited{
+    color: aqua;
+}

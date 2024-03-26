@@ -1,0 +1,26 @@
+header{
+    background-color: aqua;
+    padding: 20px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    display: flex;
+}
+body{
+    background-color: blueviolet;
+}
+nav li{
+    display: inline;
+    margin-right: 50px;
+    font-size: 18px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+nav ul li{
+    background-color: black;
+}
